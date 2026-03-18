@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "all the good girls go to hell",
+  "base_artist": "ビリー・アイリッシュ",
+  "createdAt": "2026-03-18T08:43:11.910174Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "all the good girls go to hell",
+      "artist": "BillieEilishVEVO",
+      "has_synced": true,
+      "path": "select/01_all_the_good_girls_go_to_hell_BillieEilishVEVO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All The Good Girls Go To Hell",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/02_All_The_Good_Girls_Go_To_Hell_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "all the good girls go to hell",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/03_all_the_good_girls_go_to_hell_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "all the good girls go to hell",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/04_all_the_good_girls_go_to_hell_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "all the good girls go to hell",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/05_all_the_good_girls_go_to_hell_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All The Good Girls Go To Hell",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/06_All_The_Good_Girls_Go_To_Hell_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "all the good girls go to hell",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/07_all_the_good_girls_go_to_hell_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All The Good Girls Go To Hell",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/08_All_The_Good_Girls_Go_To_Hell_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All The Good Girls Go To Hell",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/09_All_The_Good_Girls_Go_To_Hell_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "all the good girls go to hell",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/10_all_the_good_girls_go_to_hell_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All The Good Girls Go To Hell",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/11_All_The_Good_Girls_Go_To_Hell_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All The Good Girls Go To Hell",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/12_All_The_Good_Girls_Go_To_Hell_Billie_Eilish.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "all the good girls go to hell",
+      "artist": "Billie Eilish",
+      "has_synced": false,
+      "path": "select/pl_01_all_the_good_girls_go_to_hell_Billie_Eilish.txt"
+    }
+  ]
+}
